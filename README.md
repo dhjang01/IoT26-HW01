@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/e28c6f51-d8af-4721-b252-b1c6c9041978
-
 # IoT26-HW01
 
 ## Control Raspberry Pi Digital Outputs with Python
