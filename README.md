@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/e28c6f51-d8af-4721-b252-b1c6c9041978
+
 # IoT26-HW01
 
 ## Control Raspberry Pi Digital Outputs with Python
@@ -63,6 +67,12 @@ This confirms that the Raspberry Pi GPIO pin can be controlled as a digital outp
 ![HW1 Run](HW1-1.png)
 
 ### Raspberry Pi LED Result
+
+
+https://github.com/user-attachments/assets/4e4a76b1-ff0c-4949-b282-8a08989af6c1
+
+
+
 
 ![HW1 Result](hw1_result.png)
 
