@@ -6,7 +6,7 @@
 
 The objective of this assignment is to control Raspberry Pi GPIO pins as digital outputs using Python.
 
-In this project, an LED is connected to a Raspberry Pi GPIO pin and controlled using the `gpiozero` library.
+In this project, an LED is connected to a Raspberry Pi GPIO pin and controlled using the `gpiozero` library. The LED repeatedly turns on and off using a Python program.
 
 ## 2. Components
 
@@ -16,7 +16,7 @@ In this project, an LED is connected to a Raspberry Pi GPIO pin and controlled u
 - Breadboard
 - Jumper wires
 
-## 3. GPIO Pin
+## 3. GPIO Pins
 
 | Component | GPIO Pin |
 |---|---|
@@ -46,23 +46,25 @@ python3 HW1.py
 
 ## 6. Result
 
-The LED connected to GPIO14 turns on and off repeatedly every second.
+The Raspberry Pi successfully controls the LED through GPIO14.
 
-This confirms that the Raspberry Pi GPIO pin was successfully controlled as a digital output.
+The LED turns on for 1 second and turns off for 1 second repeatedly.
+
+This confirms that the Raspberry Pi GPIO pin can be controlled as a digital output using Python.
 
 ## 7. Screenshots and Evidence
 
 ### Source Code Screenshot
 
-![HW1 Code](images/hw1_code.png)
+![HW1 Code](HW1-2.png)
 
 ### Running Program Screenshot
 
-![HW1 Run](images/hw1_run.png)
+![HW1 Run](HW1-1.png)
 
 ### Raspberry Pi LED Result
 
-![HW1 Result](images/hw1_result.jpg)
+![HW1 Result](hw1_result.png)
 
 ## 8. Members
 
